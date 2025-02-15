@@ -2,7 +2,7 @@
 ## saharalabs.ai的项目介绍
 融资4900万美元的Sahara卷起来
 
-[https://legends.saharalabs.ai/?code=DJ820D](https://legends.saharalabs.ai/?code=HDFD0H)
+https://legends.saharalabs.ai/?code=HDFD0H
 
 Sahara Legends开放积攒碎片活动，并不局限于白名单用户，简单来说就是参与任务获取碎片，积攒碎片铸造5个Sahara守护者NFT，5个守护者NFT最终合成一个终极Bitsy Soulbound NFT，模式竟然跟move很相似，Sahara融资高，投资机构厉害，前面又有move高收益的案例，大家可以冲！
 
