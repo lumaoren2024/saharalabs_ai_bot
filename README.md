@@ -37,6 +37,8 @@ Sahara Legends开放积攒碎片活动，并不局限于白名单用户，简单
 ```
 #### 1.5 sahara目录为主网任务配置目录
 ``token.txt`` 抓取token存放文件，配置如下
+![image](https://github.com/user-attachments/assets/4eee511e-929a-40a7-8589-7cf24ebafdf7)
+
 ```txt
 token1||||代理
 ```
