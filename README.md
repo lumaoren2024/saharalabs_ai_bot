@@ -31,7 +31,7 @@ Sahara Legends开放积攒碎片活动，并不局限于白名单用户，简单
   "min_delay": 1, #最小优先等级
   "max_delay": 5, #最大优先等级
   "provider_url": "https://testnet.saharalabs.ai", #转水rpc
-  "proxy": "1", #1开启，0关闭
+  "proxy": "", #为空
   "flows": 10   #最大交互量
 }
 ```
